@@ -9,8 +9,8 @@
     <td><s>DP36-3</s></td>
   </tr>
   <tr>
-    <td>DP36-4</td>
-    <td>DP36-5</td>
+    <td><s>DP36-4</s></td>
+    <td><s>DP36-5</s></td>
     <td>DP41-1</td>
     <td>DP41-2</td>
   </tr>

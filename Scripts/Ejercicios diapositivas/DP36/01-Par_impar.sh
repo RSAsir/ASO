@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 clear
 #Lectura de valores
     read -p "Introduzca un numero: " n1
