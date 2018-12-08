@@ -3,7 +3,7 @@
 <table>
 
   <tr>
-    <td><s>DP20-1</s></td>
+    <td><s>DP20</s></td>
     <td><s>DP36-1</s></td>
     <td><s>DP36-2</s></td>
     <td><s>DP36-3</s></td>
@@ -16,8 +16,8 @@
   </tr>
   <tr>
  	  <td><s>DP41-3</s></td>
-    <td>DP46-1</td>
-    <td>DP46-2</td>
+    <td><s>DP46-1</s></td>
+    <td><s>DP46-2</s></td>
     <td>DP52-1</td>
   </tr>
   <tr>
