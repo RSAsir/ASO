@@ -21,7 +21,7 @@
     <td><s>DP52-1</s></td>
   </tr>
   <tr>
-    <td>DP52-2</td>
+    <td><s>DP52-2</s></td>
     <td><s>DP52-3</s></td>
     <td><s>DP52-4</s></td>
     <td><s>DP52-5</s></td>
