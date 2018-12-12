@@ -12,7 +12,7 @@ if [ -z $(ls ./ | grep ^$1$) ]; then # Comprobacion de que existe algo con ese n
     echo "$1 no existe."
 
 else
-    if [ ! -f $(ls ./ | grep ^$1$) ]; then # Comprovacion de que es un archivo/fichero.
+    if [ ! -e $(ls ./ | grep ^$1$) ]; then # Comprovacion de que es un archivo/fichero.
         echo "$1 no es un fichero"
 
         if [ -d $(ls ./ | grep ^$1$) ]; then # Comprovacion de que es un directorio.
