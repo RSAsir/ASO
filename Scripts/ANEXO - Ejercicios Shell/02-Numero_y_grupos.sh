@@ -1,7 +1,16 @@
 #!/bin/bash
 clear
 
-#CONTROLAR CADENA VACIA Y SI EL USUARIO EXISTE
+if [ -z $1 ]; then
+    echo "No se ha introducido un usuario."
+    exit
+fi
+
+if [ -z $(cat /etc/group | grep -w ^$1) ]; then
+    echo "El usuario no existe."
+    exit
+fi
+
 echo "El usuario $1 tiene la siguiente id:"
 echo `id -u $1`
 
